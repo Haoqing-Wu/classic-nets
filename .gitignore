@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Training data folder
+stanford_cars/
+
 # C extensions
 *.so
 
